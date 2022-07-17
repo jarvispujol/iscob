@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?lh3j31');
+  src:  url('fonts/icomoon.eot?lh3j31#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?lh3j31') format('truetype'),
+    url('fonts/icomoon.woff?lh3j31') format('woff'),
+    url('fonts/icomoon.svg?lh3j31#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-iscob-aaronico:before {
+  content: "\e900";
+  /*color: #1f6091;*/
+}
+.icon-iscob-bautismo-muertos:before {
+  content: "\e901";
+  /*color: #1f6091;*/
+}
+.icon-iscob-curso-investidos:before {
+  content: "\e902";
+  /*color: #1f6091;*/
+}
+.icon-iscob-diezmo:before {
+  content: "\e903";
+  /*color: #1f6091;*/
+}
+.icon-iscob-genealogia:before {
+  content: "\e904";
+  /*color: #1f6091;*/
+}
+.icon-iscob_investidura:before {
+  content: "\e905";
+  /*color: #1f6091;*/
+}
+.icon-iscob-lecciones-nc:before {
+  content: "\e906";
+  /*color: #1f6091;*/
+}
+.icon-iscob-llamamiento:before {
+  content: "\e907";
+  /*color: #1f6091;*/
+}
+.icon-iscob-melquisedec:before {
+  content: "\e908";
+  /*color: #1f6091;*/
+}
+.icon-iscob-principios-ev:before {
+  content: "\e909";
+  /*color: #1f6091;*/
+}
+.icon-iscob-sacramental:before {
+  content: "\e90a";
+  /*color: #1f6091;*/
+}
+.icon-iscob-sellamiento:before {
+  content: "\e90b";
+  /*color: #1f6091;*/
+}
